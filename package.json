@@ -1,7 +1,7 @@
 {
   "name": "example-project",
   "version": "1.0.0",
-  "description": "Example Project for Enumerate",
+  "description": "Example projects for Enumerate",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/enumeratejs/enumerate-cli.git"
