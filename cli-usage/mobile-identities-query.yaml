@@ -1,0 +1,6 @@
+conditions:
+  - 'deliverymode'
+  - 'deliverymode_pickup'
+  - 'deliverymode_mail'
+  - 'deliverymode_freight'
+  - 'deliverymode_direct_download'

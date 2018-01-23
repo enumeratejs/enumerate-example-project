@@ -1,0 +1,14 @@
+identities:
+  deliverymode:
+    type: 'enumeration'
+    name: 'Delivery Mode'
+    schema: 'http://schema.org/DeliveryMethod'
+    description: 'All available methods of delivery'
+  deliverymode_pickup:
+    name: 'Pickup'
+  deliverymode_mail:
+    name: 'Mail'
+  deliverymode_freight:
+    name: 'Freight'
+  deliverymode_direct_download:
+    name: 'Direct Download'

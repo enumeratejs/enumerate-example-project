@@ -1,0 +1,7 @@
+identities:
+  deliverymode_pickup:
+    fa_icon: 'fa-user'
+  deliverymode_mail:
+    fa_icon: 'fa-envelope'
+  deliverymode_freight:
+    fa_icon: 'fa-truck'

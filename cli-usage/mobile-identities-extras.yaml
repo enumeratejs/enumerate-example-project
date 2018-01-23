@@ -1,0 +1,9 @@
+identities:
+  deliverymode_pickup:
+    swifticon: 'user'
+  deliverymode_mail:
+    swifticon: 'envelope'
+  deliverymode_freight:
+    swifticon: 'truck'
+  deliverymode_direct_download:
+    swifticon: 'download'
